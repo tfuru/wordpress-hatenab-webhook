@@ -47,7 +47,7 @@ class HatenabWebhook{
 	private $tags_input = array("bookmark");
 	
 	//サイトサムネイルのサイズ
-	private site_thumbnail_size = 300;
+	private $site_thumbnail_size = 300;
 	
 	//ログ出力
 	public function log(){
